@@ -1,8 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/views/uiElements/circleContainer.dart';
-import 'package:real_estate_assessment/views/uiElements/generalIconDisplay.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class TextSearchField extends StatelessWidget {
   final Duration duration;

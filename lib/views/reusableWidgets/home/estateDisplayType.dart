@@ -1,13 +1,4 @@
-import 'dart:math';
-
-import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/utilities/constants/enums.dart';
-import 'package:real_estate_assessment/model/utilities/functions/extensions.dart';
-import 'package:real_estate_assessment/model/utilities/functions/hexColor.dart';
-import 'package:real_estate_assessment/model/utilities/functions/rgbaToArgb.dart';
-import 'package:real_estate_assessment/views/uiElements/generalTextDisplay.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class RealEstateDisplayType extends StatefulWidget {
   final double height;

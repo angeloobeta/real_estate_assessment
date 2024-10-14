@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/utilities/constants/strings.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 import 'package:real_estate_assessment/views/main/main.dart';
 
 void main() {

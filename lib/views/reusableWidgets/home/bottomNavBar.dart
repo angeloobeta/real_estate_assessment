@@ -1,9 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/utilities/functions/hexColor.dart';
-import 'package:real_estate_assessment/resources/resources.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/home/bottomNavBarButton.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class BottomNavBar extends StatefulWidget {
   final void Function(int) onChanged;

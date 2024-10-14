@@ -1,7 +1,5 @@
 // this is a sized box class
-
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class S extends StatelessWidget {
   // h is height, w is width

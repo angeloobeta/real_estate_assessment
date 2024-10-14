@@ -1,11 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:real_estate_assessment/resources/resources.dart';
-import 'package:real_estate_assessment/views/pages/chat/chatScreen.dart';
-import 'package:real_estate_assessment/views/pages/favourite/favouriteScreen.dart';
-import 'package:real_estate_assessment/views/pages/home/homeScreen.dart';
-import 'package:real_estate_assessment/views/pages/location/locationScreen.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 import 'package:real_estate_assessment/views/pages/profile/profile.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/home/bottomNavBar.dart';
 
 class MainScreen extends StatefulWidget {
   const MainScreen({super.key});

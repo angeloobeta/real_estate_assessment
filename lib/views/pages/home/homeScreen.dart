@@ -1,16 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/utilities/constants/enums.dart';
-import 'package:real_estate_assessment/model/utilities/functions/hexColor.dart';
-import 'package:real_estate_assessment/resources/resources.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/home/estateDisplayType.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/home/imageContainer.dart';
-import 'package:real_estate_assessment/views/uiElements/baseUI.dart';
-import 'package:real_estate_assessment/views/uiElements/circleContainer.dart';
-import 'package:real_estate_assessment/views/uiElements/generalIconDisplay.dart';
-import 'package:real_estate_assessment/views/uiElements/generalTextDisplay.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});

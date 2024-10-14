@@ -1,15 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_animate/flutter_animate.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/models/optionalModel.dart';
-import 'package:real_estate_assessment/model/utilities/functions/hexColor.dart';
-import 'package:real_estate_assessment/resources/resources.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/location/animateLocation.dart';
-import 'package:real_estate_assessment/views/reusableWidgets/location/textSearchField.dart';
-import 'package:real_estate_assessment/views/uiElements/baseUI.dart';
-import 'package:real_estate_assessment/views/uiElements/circleContainer.dart';
-import 'package:real_estate_assessment/views/uiElements/generalIconDisplay.dart';
-import 'package:real_estate_assessment/views/uiElements/generalTextDisplay.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class LocationScreen extends StatefulWidget {
   const LocationScreen({super.key});

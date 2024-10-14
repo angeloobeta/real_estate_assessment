@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 class BaseUi extends StatelessWidget {
   final Widget child;

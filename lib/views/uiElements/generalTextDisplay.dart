@@ -1,6 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:real_estate_assessment/model/utilities/constants/colors.dart';
+import 'package:real_estate_assessment/model/utilities/import/generalImport.dart';
 
 Widget generalTextDisplay(
         final String? inputText,
