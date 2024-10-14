@@ -1,0 +1,1 @@
+enum RealEstateType { buy, rent }
